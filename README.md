@@ -5,10 +5,7 @@ This is a simple Rock Paper Scissors game built with React. The project demonstr
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Styling Techniques](#styling-techniques)
-- [License](#license)
 
 ## Installation
 
