@@ -31,3 +31,4 @@ rock-paper-scissors/
 ├── README.md
 └── ...
 ```
+<img width="528" alt="Screenshot 2024-08-17 at 2 31 12 PM" src="https://github.com/user-attachments/assets/a8e5dd8a-89d3-46b5-b30c-2c2063764917">
